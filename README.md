@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/b8/2f/28/b82f28a7e9c8fcb3868d3d94652c107c.gif"/>
+</p>
 # 💫 About Me:
 Hi, I’m risotto. I’m a student currently studying Further Mathematics with the long-term goal of becoming a great mathematician. I’m focused on building strong foundations in mathematical reasoning, proof-writing, and problem-solving, while steadily exploring topics beyond the standard curriculum and documenting my learning along the way.
 
